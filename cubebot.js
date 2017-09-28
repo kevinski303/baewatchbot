@@ -1,5 +1,5 @@
 /* 
-  Pre-installation
+  Prerequisites
 npm install discord.js // The core discord.js framework. https://discord.js.org/#/
 npm install ffmpeg-binaries // Gives your ability the bot to hear (required to join vc)
 npm install node-opus or npm install opusscript // Required to stream audio, node-opus recommended
