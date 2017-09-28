@@ -1,10 +1,10 @@
 /* 
   Prerequisites
-npm install discord.js // The core discord.js framework. https://discord.js.org/#/
-npm install ffmpeg-binaries // Gives your ability the bot to hear (required to join vc)
-npm install node-opus or npm install opusscript // Required to stream audio, node-opus recommended
+npm install discord.js (The core discord.js framework. https://discord.js.org/#/)
+npm install ffmpeg-binaries (Gives your ability the bot to hear (required to join vc))
+npm install node-opus or npm install opusscript (Required to stream audio, node-opus recommended)
   Installation
-npm install discord.js-music-v11 https://github.com/nexu-dev/discord.js-music
+npm install discord.js-music-v11 (https://github.com/nexu-dev/discord.js-music)
 */
 
 const Discord = require('discord.js');
